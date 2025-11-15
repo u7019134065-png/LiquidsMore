@@ -1,0 +1,5 @@
+name: Liquids-More
+version: 1.0
+author: ЕЕее1406
+description: "Добавляет новые жидкости и блоки для существующих жидкостей"
+main: liquidsmore.LiquidsMore
